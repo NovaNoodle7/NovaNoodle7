@@ -11,7 +11,9 @@ I'm a passionate **Full Stack Web Developer** who loves building modern web appl
 - 🎨 Frontend: HTML5, CSS3, Sass, Tailwind CSS, JavaScript (ES6+), React, Next.js
 - 🔧 Backend: Node.js, Express, REST APIs, MongoDB, PostgreSQL
 - ☁️ DevOps: GitHub, Vercel, Netlify, Docker (learning)
+  <!--
 - 📫 Reach me: [your.email@example.com] | [LinkedIn](https://linkedin.com/in/your-profile)
+-->
 
 ---
 
@@ -27,7 +29,7 @@ I'm a passionate **Full Stack Web Developer** who loves building modern web appl
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 
 ---
-
+<!--
 ## 📌 Pinned Projects
 
 - 🔗 [**My Portfolio Website**]([https://yourportfolio.com](https://novanoodle-portfolio.vercel.app))  
@@ -53,3 +55,5 @@ I'm a passionate **Full Stack Web Developer** who loves building modern web appl
 - [LinkedIn](https://linkedin.com/in/your-profile)
 - [Twitter](https://twitter.com/yourhandle)
 - [Portfolio](https://yourportfolio.com)
+
+-->
