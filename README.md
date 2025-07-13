@@ -1,12 +1,15 @@
 # 👋 Hi there, I'm Alex Arnold
 
-I'm a passionate **Full Stack Web Developer** who loves building modern web applications that are clean, responsive, and scalable.
+Results-driven full-stack developer with 4+ years of experience in JavaScript ecosystems and CMS platforms.
+Skilled at designing scalable architecture, improving SEO and performance, and delivering clean, testable
+code. Strong background in Agile environments, CI/CD pipelines, REST APIs, and cross-functional
+collaboration.
+
 
 ---
 
 ## 🚀 About Me
 
-- 🌍 Based in: [Your City / Country]
 - 🛠 Tech Stack: **React**, **Node.js**, **Express**, **MongoDB**, **PostgreSQL**, **TypeScript**
 - 🎨 Frontend: HTML5, CSS3, Sass, Tailwind CSS, JavaScript (ES6+), React, Next.js
 - 🔧 Backend: Node.js, Express, REST APIs, MongoDB, PostgreSQL
