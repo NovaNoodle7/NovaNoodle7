@@ -30,21 +30,21 @@ I'm a passionate **Full Stack Web Developer** who loves building modern web appl
 
 ## 📌 Pinned Projects
 
-- 🔗 [**My Portfolio Website**](https://yourportfolio.com)  
+- 🔗 [**My Portfolio Website**]([https://yourportfolio.com](https://novanoodle-portfolio.vercel.app))  
   Built with React and TailwindCSS. Features real-time contact form and project showcase.
 
-- 🔗 [**Blog CMS Platform**](https://github.com/yourusername/blog-platform)  
+- 🔗 [**Blog CMS Platform**](https://github.com/NovaNoodle7/blog-platform)  
   Full-stack blogging system using Node.js, Express, MongoDB, and EJS templating.
 
-- 🔗 [**Task Tracker (MERN)**](https://github.com/yourusername/task-tracker)  
+- 🔗 [**Task Tracker (MERN)**](https://github.com/NovaNoodle7/task-tracker)  
   A productivity tracker app with JWT auth, RESTful APIs, and responsive UI.
 
 ---
 
 ## 📈 GitHub Stats
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=NovaNoodle7&show_icons=true&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaNoodle7&layout=compact&theme=react)
 
 ---
 
