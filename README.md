@@ -35,7 +35,7 @@ collaboration.
 
 <div align="center">
   <h1> hello world</h1>
-  <img src="https://raw.githubusercontent.com/NovaNoodle7/NovaNoodle7/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
+
 </div>
 
 ---
