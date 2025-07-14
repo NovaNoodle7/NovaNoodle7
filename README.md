@@ -32,7 +32,7 @@ collaboration.
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/YOUR_USERNAME/snk/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://raw.githubusercontent.com/NovaNoodle7/snk/output/github-contribution-grid-snake.svg)
 
 ## 🐍 GitHub Contribution Snake
 
