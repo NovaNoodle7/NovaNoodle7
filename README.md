@@ -9,6 +9,7 @@ collaboration.
 ---
 
 ## 🚀 About Me
+![GitHub Snake Animation](https://raw.githubusercontent.com/NovaNoodle7/snk/output/github-contribution-grid-snake.svg)
 
 - 🛠 Tech Stack: **React**, **Node.js**, **Express**, **MongoDB**, **PostgreSQL**, **TypeScript**
 - 🎨 Frontend: HTML5, CSS3, Sass, Tailwind CSS, JavaScript (ES6+), React, Next.js
@@ -31,12 +32,13 @@ collaboration.
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 
-
 ![GitHub Snake Animation](https://raw.githubusercontent.com/NovaNoodle7/snk/output/github-contribution-grid-snake.svg)
 
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
+![GitHub Snake Animation](https://raw.githubusercontent.com/NovaNoodle7/snk/output/github-contribution-grid-snake.svg)
+
   <img src="https://raw.githubusercontent.com/NovaNoodle7/NovaNoodle7/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
 </div>
 
