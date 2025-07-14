@@ -6,14 +6,6 @@ Strong background in Agile environments, CI/CD pipelines, REST APIs, and cross-f
 
 ---
 
-## 🚀 About Me
-
-- 🛠 Tech Stack: **React**, **Vue.js**, **Node.js**, **PHP**, **PostgreSQL**, **TypeScript**, **Shopify**
-- 🔧 Backend: Express.js, Laravel, Django, REST & GraphQL APIs, JWT, OAuth
-- ☁️ DevOps: GitHub Actions, Vercel, Netlify, AWS, Docker (learning)
-
----
-
 ## 🧰 Tech Stack
 
 <details>
