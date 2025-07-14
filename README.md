@@ -32,6 +32,8 @@ collaboration.
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 
+
+## 🚀 About Me
 ![GitHub Snake Animation](https://raw.githubusercontent.com/NovaNoodle7/snk/output/github-contribution-grid-snake.svg)
 
 ## 🐍 GitHub Contribution Snake
