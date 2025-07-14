@@ -8,27 +8,115 @@ Strong background in Agile environments, CI/CD pipelines, REST APIs, and cross-f
 
 ## 🚀 About Me
 
-- 🛠 Tech Stack: **React**, **Node.js**, **Express**, **MongoDB**, **PostgreSQL**, **TypeScript**
-- 🎨 Frontend: HTML5, CSS3, Sass, Tailwind CSS, JavaScript (ES6+), React, Next.js
-- 🔧 Backend: Node.js, Express, REST APIs, MongoDB, PostgreSQL
-- ☁️ DevOps: GitHub, Vercel, Netlify, Docker (learning)
-
-<!--
-- 📫 Reach me: [your.email@example.com] | [LinkedIn](https://linkedin.com/in/your-profile)
--->
+- 🛠 Tech Stack: **React**, **Vue.js**, **Node.js**, **PHP**, **PostgreSQL**, **TypeScript**, **Shopify**
+- 🔧 Backend: Express.js, Laravel, Django, REST & GraphQL APIs, JWT, OAuth
+- ☁️ DevOps: GitHub Actions, Vercel, Netlify, AWS, Docker (learning)
 
 ---
 
 ## 🧰 Tech Stack
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+<details>
+<summary>🖥️ <strong>Frontend Skills (Client-Side)</strong></summary>
+
+- **Languages**: HTML5, CSS3, JavaScript (ES6+)
+- **Frameworks/Libraries**: React.js, Vue.js, Angular
+- **Styling**: Tailwind CSS, Bootstrap, Sass/SCSS
+- **State Management**: Redux, Context API, Pinia (Vue)
+- **Build Tools**: Webpack, Vite, Babel
+
+</details>
+
+<details>
+<summary>⚙️ <strong>Backend Skills (Server-Side)</strong></summary>
+
+- **Languages**: Node.js (JavaScript/TypeScript), PHP, Python, Ruby, Java  
+- **Frameworks**: Express.js, Laravel, Django, Spring  
+- **Authentication**: JWT, OAuth, Session-based auth  
+- **API Design**: RESTful APIs, GraphQL  
+
+</details>
+
+<details>
+<summary>🗄️ <strong>Database & Storage</strong></summary>
+
+- **Relational**: MySQL, PostgreSQL, SQL Server  
+- **NoSQL**: MongoDB, Firebase  
+- **ORM/ODM**: Sequelize, TypeORM, Prisma, Mongoose  
+
+</details>
+
+<details>
+<summary>🚀 <strong>DevOps & Deployment</strong></summary>
+
+- **Version Control**: Git, GitHub, GitLab, Bitbucket  
+- **CI/CD**: GitHub Actions, GitLab CI, Jenkins  
+- **Hosting**: Vercel, Netlify, DigitalOcean, Heroku, AWS, Railway  
+- **Tools**: Docker, NGINX, PM2  
+
+</details>
+
+<details>
+<summary>🧰 <strong>Other Tools & Concepts</strong></summary>
+
+- Postman, Insomnia (API testing)  
+- WebSockets (real-time apps)  
+- CMS: WordPress, Strapi, Sanity  
+- Testing: Jest, Mocha, PHPUnit  
+- Agile, Scrum, Trello, Jira  
+
+</details>
+
+---
+
+## 🛒 Shopify Development
+
+<details>
+<summary>🧩 <strong>Frontend</strong></summary>
+
+- Liquid (Shopify templating)  
+- HTML5, CSS3, JavaScript (ES6+), SCSS/SASS  
+- AJAX & Shopify Fetch API  
+- React/Vue for headless setups or embedded apps  
+
+</details>
+
+<details>
+<summary>⚙️ <strong>Backend & App Development</strong></summary>
+
+- Shopify REST & GraphQL APIs  
+- Public/Private app development (Node.js, Express.js, Next.js)  
+- Webhook handling for orders, products, customers  
+- OAuth and token authentication  
+
+</details>
+
+<details>
+<summary>💻 <strong>Tooling & DevOps</strong></summary>
+
+- Git, VS Code + Shopify extensions  
+- Postman for API testing  
+- Hosting: Heroku, Vercel, custom VPS  
+
+</details>
+
+<details>
+<summary>📈 <strong>Performance & SEO</strong></summary>
+
+- Image optimization, theme speed tuning  
+- Schema.org markup, SEO metadata best practices  
+
+</details>
+
+<details>
+<summary>🤝 <strong>Other Shopify Skills</strong></summary>
+
+- Custom checkout scripts (Shopify Plus)  
+- Multi-language/store setup  
+- Third-party integrations: email, analytics, CRMs  
+- Strong understanding of eCommerce UX/UI  
+
+</details>
 
 ---
 
@@ -37,33 +125,3 @@ Strong background in Agile environments, CI/CD pipelines, REST APIs, and cross-f
 <p align="center">
   <img src="https://raw.githubusercontent.com/NovaNoodle7/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </p>
-
----
-
-<!--
-## 📌 Pinned Projects
-
-- 🔗 [**My Portfolio Website**](https://novanoodle-portfolio.vercel.app)  
-  Built with React and TailwindCSS. Features real-time contact form and project showcase.
-
-- 🔗 [**Blog CMS Platform**](https://github.com/NovaNoodle7/blog-platform)  
-  Full-stack blogging system using Node.js, Express, MongoDB, and EJS templating.
-
-- 🔗 [**Task Tracker (MERN)**](https://github.com/NovaNoodle7/task-tracker)  
-  A productivity tracker app with JWT auth, RESTful APIs, and responsive UI.
--->
-
-<!--
-## 📈 GitHub Stats
-
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=NovaNoodle7&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaNoodle7&layout=compact&theme=react)
--->
-
-<!--
-## 📬 Let's Connect
-
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Portfolio](https://yourportfolio.com)
--->
