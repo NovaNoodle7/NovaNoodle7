@@ -42,6 +42,9 @@ collaboration.
   <img src="https://raw.githubusercontent.com/NovaNoodle7/NovaNoodle7/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
 </div>
 
+## 🚀 About Me
+![GitHub Snake Animation](https://raw.githubusercontent.com/NovaNoodle7/snk/output/github-contribution-grid-snake.svg)
+
 ---
 <!--
 ## 📌 Pinned Projects
