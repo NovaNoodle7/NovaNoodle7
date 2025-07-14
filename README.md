@@ -1,21 +1,19 @@
 # 👋 Hi there, I'm Alex Arnold
 
-Results-driven full-stack developer with 4+ years of experience in JavaScript ecosystems and CMS platforms.
-Skilled at designing scalable architecture, improving SEO and performance, and delivering clean, testable
-code. Strong background in Agile environments, CI/CD pipelines, REST APIs, and cross-functional
-collaboration.
-
+Results-driven full-stack developer with 4+ years of experience in JavaScript ecosystems and CMS platforms.  
+Skilled at designing scalable architecture, improving SEO and performance, and delivering clean, testable code.  
+Strong background in Agile environments, CI/CD pipelines, REST APIs, and cross-functional collaboration.
 
 ---
 
 ## 🚀 About Me
-![GitHub Snake Animation](https://raw.githubusercontent.com/NovaNoodle7/snk/output/github-contribution-grid-snake.svg)
 
 - 🛠 Tech Stack: **React**, **Node.js**, **Express**, **MongoDB**, **PostgreSQL**, **TypeScript**
 - 🎨 Frontend: HTML5, CSS3, Sass, Tailwind CSS, JavaScript (ES6+), React, Next.js
 - 🔧 Backend: Node.js, Express, REST APIs, MongoDB, PostgreSQL
 - ☁️ DevOps: GitHub, Vercel, Netlify, Docker (learning)
-  <!--
+
+<!--
 - 📫 Reach me: [your.email@example.com] | [LinkedIn](https://linkedin.com/in/your-profile)
 -->
 
@@ -32,26 +30,20 @@ collaboration.
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 
-
-## 🚀 About Me
-![GitHub Snake Animation](https://raw.githubusercontent.com/NovaNoodle7/snk/output/github-contribution-grid-snake.svg)
+---
 
 ## 🐍 GitHub Contribution Snake
 
-<div align="center">
-![GitHub Snake Animation](https://raw.githubusercontent.com/NovaNoodle7/snk/output/github-contribution-grid-snake.svg)
-
-  <img src="https://raw.githubusercontent.com/NovaNoodle7/NovaNoodle7/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
-</div>
-
-## 🚀 About Me
-![GitHub Snake Animation](https://raw.githubusercontent.com/NovaNoodle7/snk/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NovaNoodle7/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</p>
 
 ---
+
 <!--
 ## 📌 Pinned Projects
 
-- 🔗 [**My Portfolio Website**]([https://yourportfolio.com](https://novanoodle-portfolio.vercel.app))  
+- 🔗 [**My Portfolio Website**](https://novanoodle-portfolio.vercel.app)  
   Built with React and TailwindCSS. Features real-time contact form and project showcase.
 
 - 🔗 [**Blog CMS Platform**](https://github.com/NovaNoodle7/blog-platform)  
@@ -59,20 +51,19 @@ collaboration.
 
 - 🔗 [**Task Tracker (MERN)**](https://github.com/NovaNoodle7/task-tracker)  
   A productivity tracker app with JWT auth, RESTful APIs, and responsive UI.
+-->
 
----
-
+<!--
 ## 📈 GitHub Stats
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=NovaNoodle7&show_icons=true&theme=react)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaNoodle7&layout=compact&theme=react)
+-->
 
----
-
+<!--
 ## 📬 Let's Connect
 
 - [LinkedIn](https://linkedin.com/in/your-profile)
 - [Twitter](https://twitter.com/yourhandle)
 - [Portfolio](https://yourportfolio.com)
-
 -->
