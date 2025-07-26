@@ -1,7 +1,7 @@
 <br>
 <br>
 <div align="center">
-<a href="https://github.com/NovaNoodle7?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Top-Lead-Blockchain&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
+<a href="https://github.com/NovaNoodle7?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=NovaNoodle7&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
 </div>
 
 <br>
