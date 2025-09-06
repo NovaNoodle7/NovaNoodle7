@@ -1,5 +1,5 @@
 
-# 👋 Hi there, I'm Alex Arnold
+# 👋 Hi there, 
 
 Results-driven full-stack developer with 4+ years of experience in JavaScript ecosystems and CMS platforms.  
 Skilled at designing scalable architecture, improving SEO and performance, and delivering clean, testable code.  
