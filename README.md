@@ -8,11 +8,7 @@ Strong background in Agile environments, CI/CD pipelines, REST APIs, and cross-f
 
 <br>
 <br>
-<div align="center">
-<a href="https://github.com/NovaNoodle7?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=NovaNoodle7&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
-</div>
 
-<br>
 <div align="center">
     <a href="https://github.com/NovaNoodle7">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=NovaNoodle7&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
