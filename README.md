@@ -1,7 +1,7 @@
 
 # 👋 Hi there, 
 
-Results-driven full-stack developer with 4+ years of experience in JavaScript ecosystems and CMS platforms.  
+Results-driven full-stack developer with 5+ years of experience in JavaScript ecosystems and CMS platforms.  
 Skilled at designing scalable architecture, improving SEO and performance, and delivering clean, testable code.  
 Strong background in Agile environments, CI/CD pipelines, REST APIs, and cross-functional collaboration.
 
